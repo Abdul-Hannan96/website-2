@@ -2,4 +2,7 @@
 title: "About"
 ---
 
-About this site
+## About Me
+My name is **Abdul Hannan**, and I graduated from **UMT(University of Management and technology)**.
+
+[Kane’s Free Data Science Bootcamp 2025](https://bootcamp.davidkane.info)
